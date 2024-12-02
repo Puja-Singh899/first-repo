@@ -9,13 +9,13 @@
 <body>
     <header>
         <h1>Welcome to My Portfolio</h1>
-        <p>Hi, I'm [Your Name]. A passionate [Your Profession/Role].</p>
+        <p>Hi, I'm Puja Singh. A passionate learner.</p>
     </header>
     <section id="projects">
         <h2>Projects</h2>
         <div class="project">
             <h3>Project 1</h3>
-            <p>Description of Project 1.</p>
+            <p>This project is about a logging webpage.which contains login id,password .</p>
         </div>
         <div class="project">
             <h3>Project 2</h3>
@@ -23,7 +23,7 @@
         </div>
     </section>
     <footer>
-        <p>Contact: [Your Email]</p>
+        <p>Contact: beingpujasingh</p>
     </footer>
 </body>
 </html>
